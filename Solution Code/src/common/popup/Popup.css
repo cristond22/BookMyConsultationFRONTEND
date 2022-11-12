@@ -1,0 +1,17 @@
+.popup__header_container{    
+    border: none;
+    border-radius: 0px;
+    
+}
+.popup__header_container.expanded{
+    width: 40vw;
+}
+.popup__header {
+    border: none;
+    border-radius: 0px;
+    background-color: purple;
+    box-shadow: none;
+    color: white;
+    height: 70px;
+    padding: 11px;
+}
